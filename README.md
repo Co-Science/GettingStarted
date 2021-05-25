@@ -1,5 +1,5 @@
 # JoinTheTeam
-Raise an issue to join the Co-Science Community
+Raise an [issue](https://github.com/Co-Science/JoinTheTeam/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization) to join the Co-Science Community
 
 
 ## Dont Forget To Make It Public
