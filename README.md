@@ -13,4 +13,4 @@ How can you can make them public :
 - all you have to do now is to click `Private`(the default) and set it to `Public` and there you go . 
 
 
-### You are now officially part of Co-Science 🎉🥳 😍
+### **You are now officially part of Co-Science 🎉🥳 😍**
