@@ -10,9 +10,4 @@ Please invite me to the GitHub Community Organisation.
 
 - #### Name:
 
-- #### Discord Username(if exists):
-
-
-- #### Additional Context:
-
 :nerd_face:
