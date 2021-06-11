@@ -30,6 +30,6 @@ we are just some open source enthusiast learning from other open source enthusia
 
 ## Updates
 - [x] create a telegram bot in golang | tele-go-m
-- [ ] update cs-web to add sem4
+- [ ] update [cs-web](https://cs-web-delta.vercel.app/) to add sem4
 - [ ] update the look of cs-web
 - [ ] add more functionality to tele-go-m
