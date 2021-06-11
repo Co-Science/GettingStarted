@@ -26,7 +26,7 @@ How can you can make them public :
 ### **You are now officially part of Co-Science 🎉🥳 😍**
 ---
 
-## How can I Contribute
+## How can I [Contribute](https://github.com/Co-Science/JoinTheTeam/blob/main/tips/finding-open-source-projects.md)
 - You can help us out with any projects we do if you know them
 - What if you dont no bout the thinks that we are workin on😢, well updatimg the md files or helping us with a good readme is a much great help for us
 - Raise an issue in the corresponding repo if you think there is a mistake or we forgot to add something
