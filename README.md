@@ -1,4 +1,15 @@
-# [JoinTheTeam]()
+
+
+## Who are we??
+we are just some open source enthusiast learning from other open source enthusiast😇.
+
+## Why should you join Co-Science???
+- Learn with the community
+- Grow your skills and talents
+- No pre-requisites needed
+
+---
+# JoinTheTeam
 Raise an [issue](https://github.com/Co-Science/JoinTheTeam/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization) to join the Co-Science Community
 
 ## Dont Forget To Make It Public
@@ -13,20 +24,12 @@ How can you can make them public :
 
 
 ### **You are now officially part of Co-Science 🎉🥳 😍**
+---
 
-## Who are we??
-we are just some open source enthusiast learning from other open source enthusiast😇.
-
-## Why should you join Co-Science
-- Learn with the community
-- Grow your skills and talents
-- No pre-requisites needed
-
-## How to Contributions
+## How can I Contribute
 - You can help us out with any projects we do if you know them
 - What if you dont no bout the thinks that we are workin on😢, well updatimg the md files or helping us with a good readme is a much great help for us
 - Raise an issue in the corresponding repo if you think there is a mistake or we forgot to add something
-
 
 ## Updates
 - [x] create a telegram bot in golang | tele-go-m
