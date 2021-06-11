@@ -14,3 +14,10 @@ How can you can make them public :
 
 
 ### **You are now officially part of Co-Science 🎉🥳 😍**
+
+
+## Updates
+- [x] create a telegram bot in golang | tele-go-m
+- [ ] update cs-web to add sem4
+- [ ] update the look of cs-web
+- [ ] add more functionality to tele-go-m
