@@ -12,4 +12,3 @@ Please invite me to the GitHub Community Organisation.
 
 - #### Collage:
 
-:nerd_face:
