@@ -28,4 +28,3 @@ How can you can make them public :
 
 
 ### **You are now officially part of Co-Science 🎉🥳 😍**
----
