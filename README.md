@@ -1,7 +1,7 @@
 
 
 ## Who are we??
-we are just some open source enthusiast learning from other open source enthusiast😇.
+we are just some open source enthusiast #BtechStudents.
 
 ## Why should you join Co-Science???
 - Learn with the community
