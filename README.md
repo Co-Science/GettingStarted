@@ -9,7 +9,7 @@ Feel free to open an issue or send a pull request!
 Raise any [issue](https://github.com/Co-Science/JoinTheTeam/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo to join the team
 
 ## Dont Forget To Make It Public
-After you join the repo , your org profile would be set to private by default 
+After you join Co-science , your profile is set to private by default 
 
 ![dontForgetToMakeItPublic](./img/dontForgetToMakeItPublic.png)
 
