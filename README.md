@@ -13,10 +13,9 @@ After you join the repo , your org profile would be set to private by default
 
 ![dontForgetToMakeItPublic](./img/dontForgetToMakeItPublic.png)
 
-You can make them public by: 
-- Navigate to [people's](https://github.com/orgs/Co-Science/people) tab from the Organization page 
-- Choose your username
-- Click `Private`(the default) and set it to `Public` . 
+To make them public: 
+
+Navigating to [people's](https://github.com/orgs/Co-Science/people) tab from the Organization page. Then choose your username and change `Private`(the default) to `Public` . 
 
 
 ### **Thank you for your contributions in advance**
