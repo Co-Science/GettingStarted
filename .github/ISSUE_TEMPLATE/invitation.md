@@ -1,11 +1,11 @@
 ---
 name: Invitation to the GitHub Community Organization
-about: I would like to be part of the awesome community
-title: Please invite me to the GitHub Community Organization
-labels: invite me to the organisation
+about: Talk a bit bout yourself
+title: Invitation Issue
+labels: invite join
 ---
 
-Please invite me to the GitHub Community Organisation.
+Invitation Issue
 
 
 - #### Name:
