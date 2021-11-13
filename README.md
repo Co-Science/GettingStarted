@@ -6,14 +6,14 @@ Feel free to open an issue or send a pull request!
 
 ---
 # JoinTheTeam
-Raise any [issue](https://github.com/Co-Science/JoinTheTeam/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo to join the team
+Raise any [issue](https://github.com/Co-Science/JoinTheTeam/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo to join the team(if u r not already a member)
 
 ## Dont Forget To Make It Public
 After you join Co-science , your profile is set to private by default 
 
 ![dontForgetToMakeItPublic](./img/dontForgetToMakeItPublic.png)
 
-To make them public: 
+You can make it public by: 
 
 Navigating to [people's](https://github.com/orgs/Co-Science/people) tab from the Organization page. Then choose your username and change `Private`(the default) to `Public` . 
 
